@@ -1,0 +1,1 @@
+Esta es la guia para ejectar el proyecto localmente
